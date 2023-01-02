@@ -105,10 +105,23 @@ content:
         title: University of Lethbridge
         caption: 2013 - 2015
         sub_title: MSc Physics and Astronomy
+        quote: >
+          My MSc thesis was titled: "A cryogenic test facility"
+        description: |
+          During my MSc program, I learned to coordinate with multiple suppliers/manufacturers and develop custom thermal and mechanical simulation frameworks in order to design a large volume, 4 K, cryogen-free test facility.
+          The system remains an important part of the Astronomical Instrumentation Group (AIG) infrastructure at the University of Lethbridge to this day.
+
       - layout: left
         title: University of Lethbridge
         caption: 2016 - 2019
         sub_title: PhD Earth, Space and Physical Sciences
+        quote: >
+          Thesis: "A novel cryogenic Fabry-Pérot interferometer for far-infrared astronomy"
+        description: | # this will include new lines to allow paragraphs
+          During my PhD program, I learned to design motorized optomechanical systems for operation at low temperatures to build a fully cryogenic diffraction grating and Fabry-Perot interferometer.
+          The interferometer operates in the far-infrared spectral range.
+
+          
 
   - title: A Little More About Me
     layout: text
