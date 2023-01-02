@@ -79,35 +79,49 @@ content:
     content:
       - layout: left
         title: SRON Netherlands Institute for Space Research
+        image: https://www.sron.nl/sron-logo?download=61:sron-logo-rgb-png
+        alt_text: SRON Logo
         link: sron.nl
-        # link_text: boringcompany.com
-        sub_title: Groningen and Leiden, Netherlands
-        caption: September 2019 - August 2022
-        quote: >
-         Instrument Scientist 
+        link_text: sron.nl
+        sub_title: Leiden, Netherlands
+        caption: October 2021 - August 2022
+        # quote: >
+        # Instrument Scientist 
         description: | # this will include new lines to allow paragraphs
-          **SPICA/SAFARI Assembly, Integration, and Verification (AIV) Scientist:**
-            - Design and commissioning of cryogenic verification facilities for the SPICA/SAFARI instrument
-            - Simulate effects of spacecraft pointing errors on SPICA/SAFARI spectra
-            - Development of a dual coherent source technique for measuring phase and amplitude response of few-moded power detectors
-            - Development of laser interferometer based nanometer accuracy position sensors for vacuum and cryogenic applications
-
-          **SPEXone Instrument Performance Workpackage Manager:**
+          **Instrument Scientist B:** SPEXone Instrument Performance Workpackage Manager
             - Develop optical performance simulations to predict imaging capabilities in-orbit
             - Perform non-sequential straylight analysis to inform instrument design changes
             - Derive mirror quality specifications necessary to meet radiometric, spectral, and polarimetric instrument performance requirements
             - Prepare instrument performance compliance reports for ESA reviews
 
       - layout: left
+        title: SRON Netherlands Institute for Space Research
+        image: https://www.sron.nl/sron-logo?download=61:sron-logo-rgb-png
+        alt_text: SRON Logo
+        link: sron.nl
+        link_text: sron.nl
+        sub_title: Groningen, Netherlands
+        caption: September 2019 - August 2022
+        # quote: >
+        # Instrument Scientist 
+        description: | # this will include new lines to allow paragraphs
+          **Instrument Scientist C:** SPICA/SAFARI Assembly, Integration, and Verification (AIV)
+            - Design and commissioning of cryogenic verification facilities for the SPICA/SAFARI instrument
+            - Simulate effects of spacecraft pointing errors on SPICA/SAFARI spectra
+            - Development of a dual coherent source technique for measuring phase and amplitude response of few-moded power detectors
+            - Development of laser interferometer based nanometer accuracy position sensors for vacuum and cryogenic applications
+
+
+      - layout: left
         title: Institute for Space Imaging Science
         link: https://www.ulethbridge.ca/phy/naylor/
-        # link_text: boringcompany.com
+        link_text: ulethbridge.ca/phy/naylor
+        image: https://ulethbridge.canto.com/rest/share/album/M2RVH/rest/binaryv2/image/j66qm7npj949tek6e8638rfm7g/jX3IV3akQjMMRU5NvaUMZdbH8hA/m800/500
+        alt_text: Uleth Logo
         sub_title: Lethbridge, Alberta, Canada
         caption: September 2013 - September 2019
-        quote: >
-         MSc/PhD Research Assistant
         description: | # this will include new lines to allow paragraphs
-          **Cryogenic/Optical System Design and Testing:**
+          **MSc/PhD Research Assistant:** Cryogenic/Optical System Design and Testing
             - 4 K Pulse-tube cryostat design, assembly, and operation
             - Development of control and data logging software for cryogenic systems
             - Measurement of thermal and mechanical properties of composite materials at low temperatures.
@@ -119,13 +133,13 @@ content:
       - layout: left
         title: Institute for Space Imaging Science
         link: https://www.ulethbridge.ca/phy/naylor/
-        # link_text: boringcompany.com
+        link_text: ulethbridge.ca/phy/naylor
+        image: https://ulethbridge.canto.com/rest/share/album/M2RVH/rest/binaryv2/image/j66qm7npj949tek6e8638rfm7g/jX3IV3akQjMMRU5NvaUMZdbH8hA/m800/500
+        alt_text: Uleth Logo
         sub_title: Lethbridge, Alberta, Canada
         caption: May 2011 - September 2013
-        quote: >
-         Undergraduate Research Assistant
         description: | # this will include new lines to allow paragraphs
-          **Data Scientist:**
+          **Undergraduate Research Assistant:** Herschel/SPIRE Data Processing Pipeline
           - Data reduction pipeline development for the Spectral and Photometric Imaging Receiver (SPIRE) instrument on the Herschel Space Observatory.
           - Development of artefact removal algorithms for SPIRE.
           - Development of spectral feature identifiers to locate and identify spectral absorption and emission lines from intergalactic sources as well as high red-shifted galaxies.
