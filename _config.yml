@@ -78,14 +78,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: |
-          ![SRON logo](/images/sron_logo.jpg "SRON Logo")
-
-          SRON Netherlands Institute for Space Research
-        
+        title: SRON Netherlands Institute for Space Research
         link: sron.nl
         # link_text: boringcompany.com
-        sub_title: Groningen and Leiden, Netherlands
+        sub_title: |
+          ![SRON logo](/images/sron_logo.jpg "SRON Logo")
+
+          Groningen and Leiden, Netherlands
         caption: September 2019 - August 2022
         quote: >
          Instrument Scientist 
@@ -175,6 +174,9 @@ content:
       - Rock climbing
       - Gaming
       - 3D Printing
+
+      A random image:
+      ![trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
