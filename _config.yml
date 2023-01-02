@@ -78,7 +78,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: SRON Netherlands Institute for Space Research
+        title: |
+          ![SRON logo](/images/sron_logo.jpg)
+          SRON Netherlands Institute for Space Research
+        
         link: sron.nl
         # link_text: boringcompany.com
         sub_title: Groningen and Leiden, Netherlands
