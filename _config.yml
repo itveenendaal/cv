@@ -31,9 +31,9 @@ linkedin_username: ianveenendaal
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -55,38 +55,80 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>python</mark> and <mark>optical simulations</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: SRON Netherlands Institute for Space Research
+        link: sron.nl
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Groningen and Leiden, Netherlands
+        caption: September 2019 - August 2022
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+         Instrument Scientist 
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          **SPICA/SAFARI Assembly, Integration, and Verification (AIV) Scientist:**
+            - Design and commissioning of cryogenic verification facilities for the SPICA/SAFARI instrument
+            - Simulate effects of spacecraft pointing errors on SPICA/SAFARI spectra
+            - Development of a dual coherent source technique for measuring phase and amplitude response of few-moded power detectors
+            - Development of laser interferometer based nanometer accuracy position sensors for vacuum and cryogenic applications
+
+          **SPEXone Instrument Performance Workpackage Manager:**
+            - Develop optical performance simulations to predict imaging capabilities in-orbit
+            - Perform non-sequential straylight analysis to inform instrument design changes
+            - Derive mirror quality specifications necessary to meet radiometric, spectral, and polarimetric instrument performance requirements
+            - Prepare instrument performance compliance reports for ESA reviews
+
+      - layout: left
+        title: Institute for Space Imaging Science
+        link: https://www.ulethbridge.ca/phy/naylor/
+        # link_text: boringcompany.com
+        sub_title: Lethbridge, Alberta, Canada
+        caption: September 2013 - September 2019
+        quote: >
+         MSc/PhD Research Assistant
+        description: | # this will include new lines to allow paragraphs
+          **Cryogenic/Optical System Design and Testing:**
+            - 4 K Pulse-tube cryostat design, assembly, and operation
+            - Development of control and data logging software for cryogenic systems
+            - Measurement of thermal and mechanical properties of composite materials at low temperatures.
+            - FEA analysis of thermal power/heat loading in cryogenic environments
+            - Optical design for cryogenic Fabry-Pérot and diffraction grating spectroscopic instruments
+            - Development and testing of a nanometer-precision, fiber-based laser position measurement devices in cryogenic conditions
+            - Development of end-to-end control software for cryogenic Fabry-Pérot and grating spectrometer
+
+      - layout: left
+        title: Institute for Space Imaging Science
+        link: https://www.ulethbridge.ca/phy/naylor/
+        # link_text: boringcompany.com
+        sub_title: Lethbridge, Alberta, Canada
+        caption: May 2011 - September 2013
+        quote: >
+         Undergraduate Research Assistant
+        description: | # this will include new lines to allow paragraphs
+          **Data Scientist:**
+          - Data reduction pipeline development for the Spectral and Photometric Imaging Receiver (SPIRE) instrument on the Herschel Space Observatory.
+          - Development of artefact removal algorithms for SPIRE.
+          - Development of spectral feature identifiers to locate and identify spectral absorption and emission lines from intergalactic sources as well as high red-shifted galaxies.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
