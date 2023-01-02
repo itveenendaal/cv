@@ -81,7 +81,7 @@ content:
         title: SRON Netherlands Institute for Space Research
         link: sron.nl
         # link_text: boringcompany.com
-        sub_title: |
+        sub_title: | # Try this comment to let image show
           ![SRON logo](/images/sron_logo.jpg "SRON Logo")
 
           Groningen and Leiden, Netherlands
