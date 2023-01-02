@@ -79,7 +79,8 @@ content:
     content:
       - layout: left
         title: |
-          ![SRON logo](/images/sron_logo.jpg)
+          ![SRON logo](/images/sron_logo.jpg "SRON Logo")
+
           SRON Netherlands Institute for Space Research
         
         link: sron.nl
