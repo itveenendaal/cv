@@ -81,10 +81,7 @@ content:
         title: SRON Netherlands Institute for Space Research
         link: sron.nl
         # link_text: boringcompany.com
-        sub_title: | # Try this comment to let image show
-          ![SRON logo](/images/sron_logo.jpg "SRON Logo")
-
-          Groningen and Leiden, Netherlands
+        sub_title: Groningen and Leiden, Netherlands
         caption: September 2019 - August 2022
         quote: >
          Instrument Scientist 
@@ -162,7 +159,7 @@ content:
         quote: >
           Thesis: "A novel cryogenic Fabry-Pérot interferometer for far-infrared astronomy"
         description: | # this will include new lines to allow paragraphs
-          During my PhD program, I learned to design motorized optomechanical systems for operation at low temperatures to build a fully cryogenic diffraction grating and Fabry-Perot interferometer.
+          During my PhD program, I learned to design automated and monitored optomechanical systems for operation at low temperatures to build a fully cryogenic diffraction grating and Fabry-Perot interferometer.
           The interferometer operates in the far-infrared spectral range.
 
           
@@ -171,12 +168,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
+        # - Rock climbing
+      - Tabletop Gaming
       - 3D Printing
 
-      A random image:
-      ![trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
