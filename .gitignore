@@ -1,2 +1,4 @@
 .venv
+Gemfile.lock
+_site/
 
