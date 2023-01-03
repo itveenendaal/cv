@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+about_profile_image: https://media.licdn.com/dms/image/C5603AQGiUGoK0a-aCg/profile-displayphoto-shrink_800_800/0/1578360913213?e=1678320000&v=beta&t=yfFloGI0MYVlbhVO4tzmt5UlZuu2b-tBJaMqTe9QSNs  # images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Ian and I'm an instrument scientist working in the field of far-infrared and submillimeter astronomy.
   As well as assembling and verifying astronomical instrumentation, I am also skilled in cryogenic and optical system design.
