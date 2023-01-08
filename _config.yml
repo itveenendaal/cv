@@ -173,10 +173,13 @@ content:
         quote: >
           Thesis: "A novel cryogenic Fabry-Pérot interferometer for far-infrared astronomy"
         description: | # this will include new lines to allow paragraphs
-          During my PhD program, I learned to design automated and monitored optomechanical systems for operation at low temperatures to build a fully cryogenic diffraction grating and Fabry-Perot interferometer.
+          During my PhD program, I learned to design, automate and monitor an optomechanical systems for operation at low temperatures to build a fully cryogenic diffraction grating and Fabry-Perot interferometer.
           The interferometer operates in the far-infrared spectral range.
 
-          
+  - title: Publications
+    layout: text
+    content: | #
+      {% include_relative bib.md %}
 
   - title: A Little More About Me
     layout: text
